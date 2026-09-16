@@ -1,0 +1,4 @@
+- Git is a distributed version control system.
+- Git helps track changes in files and code.
+- Git branches allow developers to work on different features.
+- GitHub is an online platform for hosting Git repositories.
